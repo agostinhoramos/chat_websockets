@@ -1,6 +1,4 @@
-# IPG
-
-
+## IPG - MESTRADO EM COMPUTAÇÃO MÓVEL
 # Trab 02 - WebSockets com o Socket.io
 
 A biblioteca Socket.io permite desenvolver aplicações real-time e também comunicações bidirecionais entre cliente e o servidor.  Esta biblioteca funciona em qualquer plataforma e dispositivo, e garante um bom desempenho.
